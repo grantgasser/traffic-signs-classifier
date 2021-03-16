@@ -130,3 +130,4 @@ dmypy.json
 
 # dont push data to git
 traffic-signs-data/
+saved_model/
