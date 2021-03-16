@@ -41,3 +41,6 @@ Prediction = [Speed limit (60km/h)], Label = [Speed limit (80km/h)] happened 23 
 Prediction = [Speed limit (60km/h)], Label = [Speed limit (50km/h)] happened 21 times
 Prediction = [Pedestrians], Label = [General caution] happened 19 times
 ```
+
+Visualizing most common mistakes:
+![Mistakes](doc_images/mistakes.png)
